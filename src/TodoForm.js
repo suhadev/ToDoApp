@@ -13,7 +13,7 @@ class TodoForm extends React.Component{
             item: e.target.value,
             element:e.target
         })
-        console.log(this.state.item)
+        //console.log(this.state.item)
     }
     
 
